@@ -17,7 +17,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: meets0ni/test:2
+      - image: meets0ni/test:3
         name: flaskdemo
 ---
 apiVersion: v1
