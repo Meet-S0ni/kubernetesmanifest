@@ -1,1 +1,1 @@
-This repo along with https://github.com/MeetSon1/kubernetescode creates a Jenkins pipeline with GitOps to deploy code into a Kubernetes cluster. CI part is done via Jenkins and CD part via ArgoCD (GitOps).
+This repo along with https://github.com/Meet-S0ni/kubernetescode creates a Jenkins pipeline with GitOps to deploy code into a Kubernetes cluster. CI part is done via Jenkins and CD part via ArgoCD (GitOps).
